@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/studyTasksItem"
+        android:icon="@android:color/holo_green_dark"
+        android:iconTint="#F44336"
+        android:title="@string/study_tasks" />
+    <item
+        android:id="@+id/notebookItem"
+        android:icon="@android:color/holo_purple"
+        android:iconTint="#2196F3"
+        android:title="@string/notebook" />
+    <item
+        android:id="@+id/optionsItem"
+        android:icon="@android:color/holo_red_light"
+        android:iconTint="#FFC107"
+        android:title="@string/options" />
+    <item
+        android:id="@+id/exitItem"
+        android:icon="@android:color/holo_orange_dark"
+        android:iconTint="#FF9800"
+        android:title="@string/exit" />
+</menu>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدير الدراسة</string>
+    <string name="Toast_delete_confirm">تم حذف الملاحظة</string>
+    <string name="abdullah_khalid_alhussaini">عبد الله خالد الحسيني</string>
+    <string name="cancel_btn">اغلاق</string>
+    <string name="choose_time">اختيار الوقت</string>
+    <string name="choose_date">اختيار التاريخ</string>
+    <string name="completed_task">انتهاء العمل</string>
+    <string name="dark_theme">الوضع الليلي</string>
+    <string name="ibrahim_hamad">ابراهيم حمد</string>
+    <string name="mitem_add_note">اضافة ملاحظة</string>
+    <string name="mitem_del_note">حذف ملاحظة</string>
+    <string name="mitem_open_note_list">فتح كتاب الملاحظات</string>
+    <string name="mitem_save_note">تخزين الملاحظة</string>
+    <string name="muhamad_irfan_fauzan">محمد عرفان فوزان</string>
+    <string name="options">الاعدادات</string>
+    <string name="submit_btn">ادخال</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانغليزية</string>
+    <string name="exit">الخروج</string>
+    <string name="time">الوقت</string>
+    <string name="date">التاريخ</string>
+    <string name="toast_note_save">تم الحفظ</string>
+    <string name="task_title">العنوان</string>
+    <string name="short_description">ملخص</string>
+    <string name="study_tasks">الاعمال</string>
+    <string name="notebook">المذكرة</string>
+    <string name="notification_status">الاشعارات</string>
+    <string name="number_of_completed_sub_tasks">عدد الاعمال المنتهية</string>
+    <string name="label_title">العنوان</string>
+    <string name="delete_note_msg">هل ترغب بالمحي؟</string>
+    <string name="dialog_title_delete_note">محي المذكرة هذه</string>
+    <string name="dark_theme_on">تفعيل الوضع الليلي</string>
+    <string name="dark_theme_off">تعطيل الوضع الليلي</string>
+    <string name="application_language">لغة البرنامج</string>
+    <string name="application_notifications">اشعارات البرنامج</string>
+    <string name="application_theme">ثيم البرنامج</string>
+</resources>

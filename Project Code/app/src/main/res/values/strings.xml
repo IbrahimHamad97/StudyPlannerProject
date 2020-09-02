@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Study Planner</string>
+    <string name="study_tasks">Study Tasks</string>
+    <string name="notebook">Notebook</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+    <string name="application_language">Application Language:</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="application_theme">Application Theme:</string>
+    <string name="notification_status">Notification Status</string>
+    <string name="application_notifications">Application Notifications:</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="dark_theme_off">Dark Theme Off</string>
+    <string name="dark_theme_on">Dark Theme On</string>
+    <string name="task_title">Task Title</string>
+    <string name="titleedt" translatable="false">titleEdt</string>
+    <string name="short_description">Short Description</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="choose_date">Choose date</string>
+    <string name="choose_time">Choose time</string>
+    <string name="completed_task">Completed Task</string>
+    <string name="number_of_completed_sub_tasks">Number of completed sub-tasks:</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="submit_btn">Submit</string>
+    <string name="ibrahim_hamad">Ibrahim Hamad</string>
+    <string name="abdullah_khalid_alhussaini">Abdullah Khalid Alhussaini</string>
+    <string name="muhamad_irfan_fauzan">Muhamad Irfan Fauzan</string>
+    <string name="label_title">Title</string>
+    <string name="toast_note_save">Note saved</string>
+    <string name="mitem_add_note">Add Note</string>
+    <string name="mitem_del_note">Delete Note</string>
+    <string name="mitem_open_note_list">Open Note List</string>
+    <string name="mitem_save_note">Save Note</string>
+    <string name="dialog_title_delete_note">Delete Current Note</string>
+    <string name="delete_note_msg">Deleting note titled \"%s\", are you sure?</string>
+    <string name="Toast_delete_confirm">Note deleted</string>
+</resources>

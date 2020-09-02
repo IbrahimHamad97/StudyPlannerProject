@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694756488359",
+    "firebase_url": "https://task-application-dcce3.firebaseio.com",
+    "project_id": "task-application-dcce3",
+    "storage_bucket": "task-application-dcce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694756488359:android:c45a9752acbe271f455782",
+        "android_client_info": {
+          "package_name": "com.cmps312.studyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694756488359-ibvhr17n7p694ltgnp50fsh9j2slcmp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBhuz2JYGEWQR7nK5ZDgoDBHjhYOlDhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694756488359-ibvhr17n7p694ltgnp50fsh9j2slcmp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
